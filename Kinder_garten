@@ -1,0 +1,23 @@
+
+
+Christie is a school teacher. She wants to distribute few chocolates to the children in her class.  All the children sit in a line and each of them has a rating score according to his or her performance in the class.  Christie wants to give at least 1 chocolate to each child. If two children sit next to each other, then the one with the higher rating must get more chocolates. Christie wants to minimize the total number of chocolates she must buy. 
+
+Note: Children with same ratings can have different number of chocolates.
+
+Challenge: You’ll be given number of students in class with their ratings in order. Find the minimum number of chocolates she needs to buy.  
+
+Sample input-1: 3, [1, 2, 2] 
+Sample output-1: 4 
+
+Explanation: The distribution of chocolates in minimal way can be done as 1,2,1.
+
+The distribution of chocolates  
+
+Sample input-1: 6, [4, 6, 4, 5, 6, 2] 
+
+Sample output-1: 10
+
+Test case-1:	(Points: )     Input: [4,5,7,2,1] Output: 9 
+Test case-2:	(Points: )     Input: [2,6,7,5,4,3,2] Output: 18
+Test case-3:	(Points: )     Input: [1,5,4,3,3] Output: 8
+Test case-4:	(Points: )     Input: [1,5,4,3,3,2] Output: 10

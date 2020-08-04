@@ -1,0 +1,20 @@
+2.	Greatest possible number	(Points: ) 
+
+For a given array of elements, you’ve to find the greatest possible number from all the possible combinations 
+
+Sample Input-1: [5, 8, 2] 
+Sample Output-1: 852
+
+Sample Input-2: [60,21,8,5] 
+Sample Output-2: 860521
+
+Test case-1:	
+
+Points:  
+Input: [55, 82, 6, 5] 
+Output: 826555
+
+Test case-2:	
+Points:  
+Input: [62, 98, 9, 6] 
+Output: 998662 
