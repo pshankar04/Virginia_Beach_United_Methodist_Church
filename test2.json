@@ -1,0 +1,36 @@
+{
+  "Results": {
+    "series": [
+      {
+        "data": [
+          {
+            "period": "Q04",
+            "year": "2017",
+            "periodName": "4th Quarter",
+            "value": "1121",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "Preliminary."
+              }
+            ]
+          },
+          {
+            "period": "Q03",
+            "year": "2017",
+            "periodName": "3rd Quarter",
+            "value": "1052",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "Preliminary."
+              }
+            ]
+          }
+        ],
+        "seriesID": "ENU5100040010"
+      }
+    ]
+  },
+  "responseTime": 151,
+}

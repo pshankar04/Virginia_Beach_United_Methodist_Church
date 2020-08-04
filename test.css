@@ -1,0 +1,16 @@
+.checkbox-grid li1{
+    display: block;
+    float: left;
+    width: 25%;
+}
+li2{
+    display: block;
+    float: right;
+    width: 25%;
+}
+
+li3{
+    display: block;
+    float: center;
+    width: 25%;
+}

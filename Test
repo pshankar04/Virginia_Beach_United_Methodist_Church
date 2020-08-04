@@ -1,0 +1,77 @@
+1.	KG problem 	(Points: ) 
+
+Alice is a kindergarten teacher. She wants to give some candies to the children in her class.  All the children sit in a line and each of them has a rating score according to his or her performance in the class.  Alice wants to give at least 1 candy to each child. If two children sit next to each other, then the one with the higher rating must get more candies. Alice wants to minimize the total number of candies she must buy. Note: Children with same ratings c
+Challenge: You’ll be given number of students in class with their ratings in order. Find the minimum number of candies she needs to buy.  
+
+Sample input-1: 3, [1, 2, 2] 
+Sample output-1: 4 
+
+Explanation: The distribution of candies in minimal way can be done as 1,2,1.
+
+The distribution of candies  Sample input-1: 6, [4, 6, 4, 5, 6, 2] Sample output-1: 10
+
+Test case-1:	(Points: ) Input: [4,5,7,2,1] Output: 9 
+Test case-2:	(Points: ) Input: [2,6,7,5,4,3,2] Output: 18
+Test case-3:	(Points: ) Input: [1,5,4,3,3] Output: 8
+Test case-4:	(Points: ) Input: [1,5,4,3,3,2] Output: 10
+
+2.	Greatest possible number	(Points: ) 
+
+For a given array of elements, you’ve to find the greatest possible number from all the possible combinations 
+
+Sample Input-1: [5, 8, 2] 
+Sample Output-1: 852
+
+Sample Input-2: [60,21,8,5] 
+Sample Output-2: 860521
+
+Test case-1:	
+
+Points:  
+Input: [55, 82, 6, 5] 
+Output: 826555
+
+Test case-2:	
+Points:  
+Input: [62, 98, 9, 6] 
+Output: 998662 
+
+3.	There are d number of doors and n number of persons. 	(Points: )  first person passes through all the doors he toggles (if door is closed, he opens it and vice versa) every door. second person passes through every 2nd door (2,4,6,8,…..) and toggle them. Third person passes through every 3rd door (3,6,9,….) and toggle them.  
+
+Challenge: Assume all doors are closed initially, find the number of doors open and closed after the last person is passed through all of them.
+Inputs will be number of doors, number of persons and output should be number of doors open and number of doors closed  
+
+SampleInput-1: 10, 10 
+
+Sample Output-1: 3, 7  
+Sample Input-2: 20, 20 
+Sample Output-2: 4, 16  
+
+Test case-1:	
+Points:  
+Input: 20, 10 
+Output: 12, 8  
+Test case-2:	
+Points:  
+Input: 10, 20 
+Output: 3, 7
+
+1.	Challenge: Assume all doors are closed initially, find the number of doors open and closed after the last person is passed through all of them. 
+Inputs will be number of doors, number of persons and output should be number of doors open and number of doors closed  
+
+Sample Input-1: 10, 10 
+Sample Output-1: 3, 7  
+Sample Input-2: 20, 20 
+Sample Output-2: 4, 16  
+
+
+Test case-1:	
+Points:  
+Input: 20, 10 
+Output: 12, 8  
+
+Test case-2:	
+Points: 
+Input: 10, 20 
+Output: 3, 7
+
